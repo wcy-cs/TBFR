@@ -26,3 +26,15 @@ python inference_TBFR.py \
   --seed 12345 \
   --chop_size 512
 ```
+##Citation
+```bash
+@ARTICLE{11397781,
+  author={An, Wenjie and Wang, Chenyang and Jiang, Junjun and Jiang, Kui and Liu, Xianming and Nie, Liqiang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Natural Language Guided Approach for Blind Face Restoration: Methodology and Dataset}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TPAMI.2026.3665736}}
+```
