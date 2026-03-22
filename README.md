@@ -26,7 +26,7 @@ python inference_TBFR.py \
   --seed 12345 \
   --chop_size 512
 ```
-##Citation
+## Citation
 ```bash
 @ARTICLE{11397781,
   author={An, Wenjie and Wang, Chenyang and Jiang, Junjun and Jiang, Kui and Liu, Xianming and Nie, Liqiang},
